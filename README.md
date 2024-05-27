@@ -4,6 +4,9 @@
 
 Led an ETL pipeline to PostgreSQL, then connected the database to Tableau to create a dashboard.
 
+## Dataset
+
+The dataset can be found at the following link: [Weekly United States Hospitalization Metrics by Jurisdiction](https://data.cdc.gov/Public-Health-Surveillance/Weekly-United-States-Hospitalization-Metrics-by-Ju/aemt-mg7g/about_data)
 
 ## Usage
 
